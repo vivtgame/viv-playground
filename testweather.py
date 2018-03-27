@@ -20,4 +20,4 @@ for forecast in forecasts:
     print(forecast.text())
     print(forecast.date())
     print(forecast.high())
-    #print(forecast.low())
+    print(forecast.low())
